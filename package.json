@@ -1,0 +1,22 @@
+{
+  "name": "document_reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandarVasilevski/document_reader.git"
+  },
+  "author": "Aleksandar Vasilevski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandarVasilevski/document_reader/issues"
+  },
+  "homepage": "https://github.com/AleksandarVasilevski/document_reader#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
